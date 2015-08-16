@@ -1,0 +1,17 @@
+name: RankSign
+version: 1.0
+main: messagesign.main
+commands:
+  default:
+  member:
+  vip:
+  donator:
+  donatorplus:
+  donatorepic:
+  donatorxtreme:
+  semimod:
+  moderator:
+  admin:
+  owner:
+  signreload: 
+  
